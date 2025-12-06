@@ -1,78 +1,108 @@
-````markdown
-# 📚 Trieur de Mots Alpha : Un Outil de Tri de Texte Avancé
+# ⚔️ ALPHA-WORD-SORTER : L'Algorithme de Structuration Textuelle
 
-Bienvenue dans le dépôt du "Trieur de Mots Alpha", une application Swing robuste et intuitive, conçue pour organiser vos listes de mots avec une précision alphabétique inégalée. Développée avec une attention méticuleuse à la qualité du code, à la performance et à l'expérience utilisateur, cette solution se positionne comme un outil indispensable pour la gestion de données textuelles.
+[](https://www.google.com/search?q=https://github.com/TechNerdSam/trieursmots/graphs/commit-activity)
+[](https://www.java.com/)
+[](https://monblog-sa-abasse.blogspot.com/)
+[](https://opensource.org/licenses/MIT)
 
-Welcome to the "Alpha Word Sorter" repository, a robust and intuitive Swing application designed to organize your word lists with unparalleled alphabetical precision. Developed with meticulous attention to code quality, performance, and user experience, this solution stands as an indispensable tool for text data management.
+> *"Le chaos est l'ennemi de la data. Cet outil impose l'ordre, la structure et la clarté à vos datasets bruts avec une précision chirurgicale."*
 
----
+Bienvenue sur **TrieursMots**. Ce n'est pas une simple application de tri. C'est un **moteur de traitement textuel haute fréquence**, conçu en Java natif pour une résilience absolue. Il permet aux Data Analysts, développeurs et rédacteurs de nettoyer et structurer l'information brute sans friction.
 
-## ✨ Fonctionnalités Clés / ✨ Key Features
+-----
 
-* **Tri Alphabétique Polyvalent** : Triez des listes de mots en ordre ascendant (A-Z) ou descendant (Z-A).
-    * *Versatile Alphabetical Sorting* : Sort word lists in ascending (A-Z) or descending (Z-A) order.
-* **Options de Tri Intelligentes** :
-    * 🔍 Ignorer la casse (ex: "Mot" et "mot" sont traités de manière identique).
-    * 🌍 Ignorer les accents et les signes diacritiques (ex: "été" et "ete" sont considérés comme équivalents).
-    * 🗑️ Suppression des doublons pour des listes épurées.
-    * *Intelligent Sorting Options* :
-        * 🔍 Ignore Case (e.g., "Word" and "word" are treated identically).
-        * 🌍 Ignore Accents and Diacritics (e.g., "été" and "ete" are considered equivalent).
-        * 🗑️ Duplicate Removal for clean lists.
-* **Internationalisation (I18n) Avancée** : Prise en charge de plusieurs langues pour l'interface utilisateur (Français 🇫🇷 et Anglais 🇬🇧) et tri sensible à la locale, assurant une conformité avec les règles linguistiques spécifiques.
-    * *Advanced Internationalization (I18n)* : Supports multiple UI languages (French 🇫🇷 and English 🇬🇧) and locale-sensitive sorting, ensuring compliance with specific linguistic rules.
-* **Opérations de Fichier Intégrées** :
-    * 📂 Charger des mots depuis un fichier texte existant.
-    * 💾 Sauvegarder les résultats triés dans un nouveau fichier texte.
-    * *Integrated File Operations* :
-        * 📂 Load words from an existing text file.
-        * 💾 Save sorted results to a new text file.
-* **Interface Utilisateur Réactive (UI Non-Bloquante)** : Les opérations de tri sont exécutées en arrière-plan grâce à `SwingWorker`, garantissant une fluidité de l'interface même avec de grandes quantités de données. Des indicateurs de statut clairs informent l'utilisateur en temps réel.
-    * *Responsive User Interface (Non-Blocking UI)* : Sorting operations run in a background thread using `SwingWorker`, ensuring UI responsiveness even with large datasets. Clear status indicators provide real-time user feedback.
-* **Presse-papiers Intégration** : Copiez facilement les résultats triés directement dans votre presse-papiers.
-    * *Clipboard Integration* : Easily copy sorted results directly to your clipboard.
+## 🚀 SAMYN-ANTOY : Architecte Growth & Tech Augmentée par l'IA
 
----
+**L'alliance du Code, de la Stratégie et du Design pour propulser votre business.**
 
-## 🛠 Technologies Utilisées / 🛠 Technologies Used
+Dans l'économie de l'attention, la maîtrise de l'information est le seul avantage concurrentiel durable. Je conçois les outils qui permettent cette maîtrise.
 
-* **Java SE 6** : Le langage de programmation principal.
-    * *Java SE 6* : The primary programming language.
-* **Swing** : Le toolkit graphique pour l'interface utilisateur.
-    * *Swing* : The graphical user interface toolkit.
-* **`java.text.Collator`** : Pour un tri alphabétique précis et sensible à la locale.
-    * *`java.text.Collator`* : For accurate and locale-sensitive alphabetical sorting.
-* **`javax.swing.SwingWorker`** : Pour des opérations asynchrones et une UI fluide.
-    * *`javax.swing.SwingWorker`* : For asynchronous operations and a fluid UI.
+### ⚡ EXPERTISE À HAUT IMPACT
 
----
+  * **💻 Dév Nouvelle Génération :** Développement assisté par IA (Prompt-to-Code) • SysAdmin • Infrastructures Robustes & Scalables.
+  * **📈 Croissance & Ads :** Stratégies d'Acquisition Agressives • Marketing Digital 360° • Data Science appliquée au Growth.
+  * **🎨 Visuels & Créa :** Photographie IA • Publicités à Haute Conversion (Neuro-Design).
 
-## 🚀 Démarrage Rapide / 🚀 Quick Start
+-----
 
-Pour compiler et exécuter l'application sur votre système :
+## 👇 PASSEZ À LA VITESSE SUPÉRIEURE (Zone d'Opportunité)
 
-To compile and run the application on your system:
+Ne vous contentez pas de l'outil. Adoptez la méthode.
 
-### Prérequis / Prerequisites
+### 💼 Collaborons ensemble
 
-* **Java Development Kit (JDK) 6 ou plus récent.**
-    * *Java Development Kit (JDK) 6 or newer.*
+Accédez à mes modèles mentaux et mes stratégies d'architecture digitale.
+👉 **[Le Blog Tech Pro de Samyn-Antoy ABASSE](https://monblog-sa-abasse.blogspot.com/)**
 
-### Compilation / Compilation
+### 🧢 LA BOUTIQUE OFFICIELLE
 
-Naviguez jusqu'au répertoire contenant le fichier `TrieurDeMotsAlpha.java` et exécutez la commande suivante dans votre terminal :
+Rejoignez le mouvement. Portez la vision. L'uniforme des créateurs du Top 1%.
+🛒 **[Accès Exclusif : Mon Store Créateur Fourthwall](https://samynantoyabasse-shop.fourthwall.com)**
 
-Navigate to the directory containing the `TrieurDeMotsAlpha.java` file and execute the following command in your terminal:
+-----
+
+## 💎 MON ARSENAL & LIFESTYLE 2025
+
+La performance est une alchimie : `(Outils + Environnement) x Discipline`. Voici les catalyseurs que j'utilise pour maintenir mon "Deep Work".
+
+| Catégorie | L'Arme Secrète | Le Levier de Performance | Lien d'Acquisition |
+| :--- | :--- | :--- | :--- |
+| **📱 Tech Mobile** | **iPhone 16** | Puissance Pure. Le centre de contrôle pour piloter l'empire en temps réel. | [**Commander la Puissance**](https://amzn.to/4ivKTuW) |
+| **🧱 Focus Créatif** | **LEGO Star Wars** | Déconnexion stratégique. Restructuration neuronale par l'assemblage complexe. | [**Booster ma Créativité**](https://amzn.to/44FrP7N) |
+| **⚡ Santé & Énergie** | **Air Fryer** | Bio-hacking culinaire. Nutrition optimisée pour une énergie stable sans perte de temps. | [**Optimiser l'Énergie**](https://amzn.to/48AECcZ) |
+
+*(Liens affiliés - Soutenez l'excellence)*
+
+-----
+
+## 🧠 L'Intelligence du Code (Fonctionnalités)
+
+Ce projet démontre comment une architecture logicielle rigoureuse améliore l'expérience utilisateur (UX) et la fiabilité des données.
+
+### ⚙️ Le Moteur Technique
+
+  * **Algorithme Non-Bloquant (`SwingWorker`) :** Le tri s'exécute en tâche de fond. L'interface reste fluide, même avec des millions d'entrées. Zéro lag.
+  * **Précision Linguistique (`java.text.Collator`) :** Respect total des normes culturelles (locale-sensitive). Le tri s'adapte si vous travaillez en Français 🇫🇷 ou en Anglais 🇬🇧.
+  * **Nettoyage de Données (Data Hygiene) :**
+      * Suppression intelligente des doublons (Deduplication).
+      * Normalisation des accents (Canonical Decomposition).
+      * Insensibilité à la casse pour une uniformité parfaite.
+
+### 🛠️ Stack Technologique
+
+  * **Langage :** Java SE 6+ (Compatibilité universelle & Robustesse).
+  * **UI :** Java Swing (Interface native rapide).
+  * **Design Pattern :** Séparation claire entre la logique métier et la couche de présentation.
+
+-----
+
+## 🚀 Protocole de Déploiement
+
+Transformez ce code en outil de production immédiat.
+
+### 1\. Initialisation
+
+Assurez-vous de posséder le JDK (Java Development Kit).
+
+```bash
+# Clonez le dépôt stratégique
+git clone https://github.com/TechNerdSam/trieursmots.git
+
+# Entrez dans la matrice
+cd trieursmots/TrieurMots
+```
+
+### 2\. Compilation (Build)
+
+Transformez le code source en bytecode exécutable :
 
 ```bash
 javac TrieurDeMotsAlpha.java
-````
+```
 
-### Exécution / Execution
+### 3\. Exécution (Run)
 
-Après la compilation, vous pouvez lancer l'application avec :
-
-After compilation, you can launch the application with:
+Lancez le moteur :
 
 ```bash
 java TrieurDeMotsAlpha
@@ -80,79 +110,34 @@ java TrieurDeMotsAlpha
 
 -----
 
-## 💡 Guide d'Utilisation / 💡 Usage Guide
+## 💡 Guide Stratégique d'Utilisation
 
-1.  **Saisir les Mots** : Dans la section "1. Saisir les mots", tapez ou collez votre liste de mots. Les mots peuvent être séparés par des espaces, des sauts de ligne, des virgules ou des points-virgules.
-      * *Enter Words* : In the "1. Enter Words" section, type or paste your word list. Words can be separated by spaces, new lines, commas, or semicolons.
-2.  **Charger un Fichier (Nouveau)** : Utilisez le bouton "Charger un fichier..." pour importer des mots directement depuis un fichier texte sur votre ordinateur.
-      * *Load File (New)* : Use the "Load from File..." button to import words directly from a text file on your computer.
-3.  **Sélectionner les Options de Tri** : Dans la section "2. Options de Tri", choisissez vos préférences :
-      * Ordre (Ascendant/Descendant)
-      * Ignorer la casse
-      * Ignorer les accents
-      * Supprimer les doublons
-      * *Select Sort Options* : In the "2. Sort Options" section, choose your preferences:
-          * Order (Ascending/Descending)
-          * Ignore Case
-          * Ignore Accents
-          * Remove Duplicates
-4.  **Changer la Langue (Nouveau)** : Utilisez la liste déroulante "Langue:" pour basculer l'interface utilisateur entre le Français et l'Anglais, et ajuster les règles de tri sensibles à la locale.
-      * *Change Language (New)* : Use the "Language:" dropdown to switch the user interface between French and English, and adjust locale-sensitive sorting rules.
-5.  **Lancer le Tri** : Cliquez sur le bouton "TRIER" pour afficher les mots organisés dans la zone de résultat. L'interface restera réactive même pour les grandes listes.
-      * *Start Sorting* : Click the "SORT" button to display the organized words in the result area. The interface will remain responsive even for large lists.
-6.  **Manipuler le Résultat** :
-      * "Copier Résultat" : Transfère la liste triée vers votre presse-papiers.
-      * "Effacer Résultat" : Vide la zone de résultat.
-      * "Sauvegarder le résultat..." (Nouveau) : Exporte la liste triée vers un fichier texte de votre choix.
-      * *Handle Result* :
-          * "Copy Result" : Transfers the sorted list to your clipboard.
-          * "Clear Result" : Empties the result area.
-          * "Save Result As..." (New) : Exports the sorted list to a text file of your choice.
-7.  **Barre de Statut** : Le bas de la fenêtre affiche des messages d'état en temps réel sur l'opération en cours.
-      * *Status Bar* : The bottom of the window displays real-time status messages about the current operation.
+1.  **Injection de Données :** Collez votre liste brute ou chargez un fichier `.txt`. L'outil accepte le chaos (espaces, virgules, sauts de ligne).
+2.  **Configuration des Paramètres :** Sélectionnez vos critères (Ignorer la casse, retirer les doublons). C'est ici que vous définissez la qualité de votre output.
+3.  **Exécution :** Cliquez sur **TRIER**. L'algorithme restructure instantanément vos données.
+4.  **Extraction :** Copiez le résultat dans le presse-papiers ou exportez-le. Vos données sont maintenant prêtes à être exploitées.
 
 -----
 
-## 🌟 Qualité du Code et Maintenabilité / 🌟 Code Quality and Maintainability
+## 🤝 Contribution (Cercle d'Élite)
 
-Ce projet a été développé avec des principes d'ingénierie logicielle solides :
+L'Open Source est un accélérateur de talent. Vous avez une idée pour optimiser l'algorithme de tri ou ajouter le support Regex ?
 
-This project has been developed with strong software engineering principles:
-
-  * **Code Propre et Lisible** : Suivi rigoureux des conventions de codage Java, utilisation de noms significatifs pour les variables, méthodes et classes, et formatage cohérent.
-      * *Clean and Readable Code* : Strict adherence to Java coding conventions, use of meaningful names for variables, methods, and classes, and consistent formatting.
-  * **Robustesse et Gestion des Erreurs** : Implémentation de mécanismes de gestion d'erreurs robustes pour les opérations de fichier et les entrées utilisateur, avec des retours clairs à l'utilisateur et des logs de débogage internes.
-      * *Robustness and Error Handling* : Implementation of robust error handling mechanisms for file operations and user inputs, with clear feedback to the user and internal debugging logs.
-  * **Documentation Complète** : Javadoc détaillé en anglais et en français pour chaque composant et méthode, facilitant la compréhension et la maintenance du code par toute équipe de développement.
-      * *Comprehensive Documentation* : Detailed Javadoc in both English and French for every component and method, facilitating code understanding and maintenance by any development team.
-  * **Séparation des Préoccupations (Partielle)** : Bien que le projet soit contenu dans un seul fichier pour simplifier le déploiement Java 6, une attention particulière a été portée à la modularité logique des méthodes (UI vs. logique métier) pour une meilleure maintenabilité.
-      * *Separation of Concerns (Partial)* : Although the project is contained within a single file for Java 6 deployment simplicity, particular attention has been paid to the logical modularity of methods (UI vs. business logic) for improved maintainability.
+1.  **Forkez** le projet.
+2.  **Créez** une branche (`git checkout -b feature/OptimizationX`).
+3.  **Commitez** (`git commit -m 'Upgrade: Algorithme de tri rapide'`).
+4.  **Pushez** (`git push origin feature/OptimizationX`).
+5.  **Ouvrez** une Pull Request.
 
 -----
 
-## 🤝 Contribution / 🤝 Contributing
+## ✍️ Contact & Réseau
 
-Les contributions sont les bienvenues \! Si vous souhaitez améliorer ce projet, n'hésitez pas à :
+**TechNerdSam (Samyn-Antoy ABASSE)**
 
-Contributions are welcome\! If you wish to improve this project, feel free to:
-
-1.  Forker le dépôt.
-      * Fork the repository.
-2.  Créer une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`).
-      * Create a feature branch (`git checkout -b feature/AmazingAmazingFeature`).
-3.  Committer vos changements (`git commit -m 'Add some AmazingFeature'`).
-      * Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Pusher vers la branche (`git push origin feature/AmazingFeature`).
-      * Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Ouvrir une Pull Request.
-      * Open a Pull Request.
+  * **Email Stratégique :** [samynantoy@gmail.com](mailto:samynantoy@gmail.com)
+  * **QG GitHub :** [TechNerdSam](https://github.com/TechNerdSam)
 
 -----
 
-## 👤 Auteur / 👤 Author
-
-  * **Samyn-Antoy ABASSE** - Conçu et développé.
-      * *Samyn-Antoy ABASSE* - Designed and Developed.
-
-```
-```
+*Propulsé par la vision de Samyn-Antoy. Codez pour dominer.*
